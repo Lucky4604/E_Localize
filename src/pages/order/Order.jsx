@@ -29,6 +29,7 @@ const Order = () => {
                                 <h2 className="text-lg font-bold text-gray-900" >{item.title}</h2>
                                 <p className="mt-1 text-xs text-gray-700" >{item.description}</p>
                                 <p className="mt-1 text-xs text-gray-700" >{item.price}</p>
+                                <p className="mt-1 text-xs text-gray-700" >{item.date}</p>
                               </div>
                             </div>
                           </div>
